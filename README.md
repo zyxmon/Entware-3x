@@ -1,6 +1,7 @@
 ## Entware-ng-3x
 
-This is a fork of Entware-ng project: https://github.com/Entware-ng/Entware-ng
+This is a а copy of https://github.com/Entware-for-kernel-3x/Entware-ng-3x
+
 
 The main differences from the original project are
 - 3.x kernels are used to build toolchain. 3.4.112 is used for mips(el) and 3.2.40 is used for arm and intel;
